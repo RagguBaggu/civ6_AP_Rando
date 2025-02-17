@@ -529,12 +529,6 @@
     "codes": "toggle"
   },
   {
-    "name": "",
-    "type": "toggle",
-    "img": "images/Eras/Medieval/Civics/.png",
-    "codes": "toggle"
-  },
-  {
     "name": "Guilds",
     "type": "toggle",
     "img": "images/Eras/Medieval/Civics/Guilds.png",
