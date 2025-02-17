@@ -3,79 +3,757 @@
   {
     "name": "Pottery",
     "type": "toggle",
-    "img": "images/items/Ancient/Techs/Pottery.png",
+    "img": "images/Eras/Ancient/Techs/Pottery.png",
     "codes": "toggle"
   },
   {
     "name": "Animal Husbandry",
     "type": "toggle",
-    "img": "images/items/Ancient/Techs/AnimalHusbandry.png",
+    "img": "images/Eras/Ancient/Techs/AnimalHusbandry.png",
     "codes": "toggle"
   },
   {
     "name": "Mining",
     "type": "toggle",
-    "img": "images/items/Ancient/Techs/Mining.png",
+    "img": "images/Eras/Ancient/Techs/Mining.png",
     "codes": "toggle"
   },
   {
     "name": "Sailing",
     "type": "toggle",
-    "img": "images/items/Ancient/Techs/Sailing.png",
+    "img": "images/Eras/Ancient/Techs/Sailing.png",
     "codes": "toggle"
   },
   {
     "name": "Astrology",
     "type": "toggle",
-    "img": "images/items/Ancient/Techs/Astrology.png",
+    "img": "images/Eras/Ancient/Techs/Astrology.png",
     "codes": "toggle"
   },
   {
     "name": "Irrigation",
     "type": "toggle",
-    "img": "images/items/Ancient/Techs/Irrigation.png",
+    "img": "images/Eras/Ancient/Techs/Irrigation.png",
     "codes": "toggle"
   },
   {
     "name": "Writing",
     "type": "toggle",
-    "img": "images/items/Ancient/Techs/Writing.png",
+    "img": "images/Eras/Ancient/Techs/Writing.png",
     "codes": "toggle"
   },
   {
     "name": "Archery",
     "type": "toggle",
-    "img": "images/items/Ancient/Techs/Archery.png",
+    "img": "images/Eras/Ancient/Techs/Archery.png",
     "codes": "toggle"
   },
   {
     "name": "Masonry",
     "type": "toggle",
-    "img": "images/items/Ancient/Techs/Masonry",
+    "img": "images/Eras/Ancient/Techs/Masonry",
     "codes": "toggle"
   },
   {
     "name": "Bronze Working",
     "type": "toggle",
-    "img": "images/items/Ancient/Techs/BronzeWorking.png",
+    "img": "images/Eras/Ancient/Techs/BronzeWorking.png",
     "codes": "toggle"
   },
   {
     "name": "Wheel",
     "type": "toggle",
-    "img": "images/items/Ancient/Techs/Wheel.png",
+    "img": "images/Eras/Ancient/Techs/Wheel.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Celestial Navigation",
+    "type": "toggle",
+    "img": "images/Eras/Classical/Techs/CelestialNavigation.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Currency",
+    "type": "toggle",
+    "img": "images/Eras/Classical/Techs/Currency",
+    "codes": "toggle"
+  },
+  {
+    "name": "Horseback Riding",
+    "type": "toggle",
+    "img": "images/Eras/Classical/Techs/HorsebackRiding.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Iron Working",
+    "type": "toggle",
+    "img": "images/Eras/Classical/Techs/IronWorking.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Shipbuilding",
+    "type": "toggle",
+    "img": "images/Eras/Classical/Techs/Shipbuilding.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Mathematics",
+    "type": "toggle",
+    "img": "images/Eras/Classical/Techs/Mathematics.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Construction",
+    "type": "toggle",
+    "img": "images/Eras/Classical/Techs/Construction.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Engineering",
+    "type": "toggle",
+    "img": "images/Eras/Classical/Techs/Engineering.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Military Tactics",
+    "type": "toggle",
+    "img": "images/Eras/Medieval/Techs/MilitaryTactics.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Buttress",
+    "type": "toggle",
+    "img": "images/Eras/Medieval/Techs/Buttress.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Apprenticeship",
+    "type": "toggle",
+    "img": "images/Eras/Medieval/Techs/Apprenticeship.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Machinery",
+    "type": "toggle",
+    "img": "images/Eras/Medieval/Techs/Machinery.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Stirrups",
+    "type": "toggle",
+    "img": "images/Eras/Medieval/Techs/Stirrups.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Education",
+    "type": "toggle",
+    "img": "images/Eras/Medieval/Techs/Education.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Military Engineering",
+    "type": "toggle",
+    "img": "images/Eras/Medieval/Techs/MilitaryEngineering.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Castles",
+    "type": "toggle",
+    "img": "images/Eras/Medieval/Techs/Castles.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Cartography",
+    "type": "toggle",
+    "img": "images/Eras/Renaissance/Techs/Cartography.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Mass Production",
+    "type": "toggle",
+    "img": "images/Eras/Renaissance/Techs/MassProduction.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Banking",
+    "type": "toggle",
+    "img": "images/Eras/Renaissance/Techs/Banking.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Gunpowder",
+    "type": "toggle",
+    "img": "images/Eras/Renaissance/Techs/Gunpowder.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Printing",
+    "type": "toggle",
+    "img": "images/Eras/Renaissance/Techs/Printing.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Square Rigging",
+    "type": "toggle",
+    "img": "images/Eras/Renaissance/Techs/SquareRigging.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Astronomy",
+    "type": "toggle",
+    "img": "images/Eras/Renaissance/Techs/Astronomy.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Metal Casting",
+    "type": "toggle",
+    "img": "images/Eras/Renaissance/Techs/MetalCasting.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Siege Tactics",
+    "type": "toggle",
+    "img": "images/Eras/Renaissance/Techs/SiegeTactics.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Industrialization",
+    "type": "toggle",
+    "img": "images/Eras/Industrial/Techs/Industrialization.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Scientific Theory",
+    "type": "toggle",
+    "img": "images/Eras/Industrial/Techs/ScientificTheory.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Ballistics",
+    "type": "toggle",
+    "img": "images/Eras/Industrial/Techs/Ballistics.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Military Science",
+    "type": "toggle",
+    "img": "images/Eras/Industrial/Techs/MilitaryScience.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Steam Power",
+    "type": "toggle",
+    "img": "images/Eras/Industrial/Techs/SteamPower.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Sanitation",
+    "type": "toggle",
+    "img": "images/Eras/Industrial/Techs/Sanitation.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Economics",
+    "type": "toggle",
+    "img": "images/Eras/Industrial/Techs/Economics.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Rifling",
+    "type": "toggle",
+    "img": "images/Eras/Industrial/Techs/Rifling.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Flight",
+    "type": "toggle",
+    "img": "images/Eras/Modern/Techs/Flight.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Replaceable Parts",
+    "type": "toggle",
+    "img": "images/Eras/Modern/Techs/ReplaceableParts.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Steel",
+    "type": "toggle",
+    "img": "images/Eras/Modern/Techs/Steel.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Refining",
+    "type": "toggle",
+    "img": "images/Eras/Modern/Techs/Refining.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Electricity",
+    "type": "toggle",
+    "img": "images/Eras/Modern/Techs/Electricity.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Radio",
+    "type": "toggle",
+    "img": "images/Eras/Modern/Techs/Radio.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Chemistry",
+    "type": "toggle",
+    "img": "images/Eras/Modern/Techs/Chemistry.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Combustion",
+    "type": "toggle",
+    "img": "images/Eras/Modern/Techs/Combustion.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Advanced Flight",
+    "type": "toggle",
+    "img": "images/Eras/Atomic/Techs/AdvancedFlight.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Rocketry",
+    "type": "toggle",
+    "img": "images/Eras/Atomic/Techs/Rocketry.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Advanced Ballistics",
+    "type": "toggle",
+    "img": "images/Eras/Atomic/Techs/AdvancedBallistics.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Combined Arms",
+    "type": "toggle",
+    "img": "images/Eras/Atomic/Techs/CombinedArms.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Plastics",
+    "type": "toggle",
+    "img": "images/Eras/Atomic/Techs/Plastics.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Computers",
+    "type": "toggle",
+    "img": "images/Eras/Atomic/Techs/Computers.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Nuclear Fission",
+    "type": "toggle",
+    "img": "images/Eras/Atomic/Techs/NuclearFission.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Synthetic Materials",
+    "type": "toggle",
+    "img": "images/Eras/Atomic/Techs/SyntheticMaterials.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Telecommunications",
+    "type": "toggle",
+    "img": "images/Eras/Information/Techs/Telecommunications.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Satellites",
+    "type": "toggle",
+    "img": "images/Eras/Information/Techs/Satellites.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Guidance Systems",
+    "type": "toggle",
+    "img": "images/Eras/Information/Techs/GuidanceSystems.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Lasers",
+    "type": "toggle",
+    "img": "images/Eras/Information/Techs/Lasers.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Composites",
+    "type": "toggle",
+    "img": "images/Eras/Information/Techs/Composites.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Stealth Technology",
+    "type": "toggle",
+    "img": "images/Eras/Information/Techs/StealthTechnology.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Robotics",
+    "type": "toggle",
+    "img": "images/Eras/Information/Techs/Robotics.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Nuclear Fusion",
+    "type": "toggle",
+    "img": "images/Eras/Information/Techs/NuclearFusion.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Nanotechnology",
+    "type": "toggle",
+    "img": "images/Eras/Information/Techs/Nanotechnology.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Code of Laws",
+    "type": "toggle",
+    "img": "images/Eras/Ancient/Civics/CodeofLaws.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Craftsmanship",
+    "type": "toggle",
+    "img": "images/Eras/Ancient/Civics/Craftsmanship.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Foreign Trade",
+    "type": "toggle",
+    "img": "images/Eras/Ancient/Civics/ForeignTrade.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Military Tradition",
+    "type": "toggle",
+    "img": "images/Eras/Ancient/Civics/MilitaryTradition.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "State Workforce",
+    "type": "toggle",
+    "img": "images/Eras/Ancient/Civics/StateWorkforce.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Early Empire",
+    "type": "toggle",
+    "img": "images/Eras/Ancient/Civics/EarlyEmpire.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Mysticism",
+    "type": "toggle",
+    "img": "images/Eras/Ancient/Civics/Mysticism.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Games and Recreation",
+    "type": "toggle",
+    "img": "images/Eras/Classical/Civics/GamesandRecreation.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Political Philosophy",
+    "type": "toggle",
+    "img": "images/Eras/Classical/Civics/PoliticalPhilosophy.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Drama and Poetry",
+    "type": "toggle",
+    "img": "images/Eras/Classical/Civics/DramaandPoetry.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Military Training",
+    "type": "toggle",
+    "img": "images/Eras/Classical/Civics/MilitaryTraining.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Defensive Tactics",
+    "type": "toggle",
+    "img": "images/Eras/Classical/Civics/DefensiveTactics.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Recorded History",
+    "type": "toggle",
+    "img": "images/Eras/Classical/Civics/RecordedHistory.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Theology",
+    "type": "toggle",
+    "img": "images/Eras/Classical/Civics/Theology.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Naval Tradition",
+    "type": "toggle",
+    "img": "images/Eras/Medieval/Civics/NavalTradition.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Feudalism",
+    "type": "toggle",
+    "img": "images/Eras/Medieval/Civics/Feudalism.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Civil Service",
+    "type": "toggle",
+    "img": "images/Eras/Medieval/Civics/CivilService.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Mercenaries",
+    "type": "toggle",
+    "img": "images/Eras/Medieval/Civics/Mercenaries.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Medieval Faires",
+    "type": "toggle",
+    "img": "images/Eras/Medieval/Civics/MedievalFaires.png",
     "codes": "toggle"
   },
   {
     "name": "",
     "type": "toggle",
-    "img": "images/items/Classical/Techs/",
+    "img": "images/Eras/Medieval/Civics/.png",
     "codes": "toggle"
   },
   {
-    "name": "Toggle",
+    "name": "Guilds",
     "type": "toggle",
-    "img": "images/items/toggle.png",
+    "img": "images/Eras/Medieval/Civics/Guilds.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Divine Right",
+    "type": "toggle",
+    "img": "images/Eras/Medieval/Civics/DivineRight.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Exploration",
+    "type": "toggle",
+    "img": "images/Eras/Renaissance/Civics/Exploration.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Humanism",
+    "type": "toggle",
+    "img": "images/Eras/Renaissance/Civics/Humanism.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Diplomatic Service",
+    "type": "toggle",
+    "img": "images/Eras/Renaissance/Civics/DiplomaticService.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Reformed Church",
+    "type": "toggle",
+    "img": "images/Eras/Renaissance/Civics/ReformedChurch.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Mercantilism",
+    "type": "toggle",
+    "img": "images/Eras/Renaissance/Civics/Mercantilism.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "The Enlightenment",
+    "type": "toggle",
+    "img": "images/Eras/Renaissance/Civics/TheEnlightenment.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Colonialism",
+    "type": "toggle",
+    "img": "images/Eras/Industrial/Civics/Colonialism.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Civil Engineering",
+    "type": "toggle",
+    "img": "images/Eras/Industrial/Civics/CivilEngineering.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Nationalism",
+    "type": "toggle",
+    "img": "images/Eras/Industrial/Civics/Nationalism.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Opera and Ballet",
+    "type": "toggle",
+    "img": "images/Eras/Industrial/Civics/OperaandBallet.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Natural History",
+    "type": "toggle",
+    "img": "images/Eras/Industrial/Civics/NaturalHistory.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Urbanization",
+    "type": "toggle",
+    "img": "images/Eras/Industrial/Civics/Urbanization.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Scorched Earth",
+    "type": "toggle",
+    "img": "images/Eras/Industrial/Civics/ScorchedEarth.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Conservation",
+    "type": "toggle",
+    "img": "images/Eras/Modern/Civics/Conservation.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Mass Media",
+    "type": "toggle",
+    "img": "images/Eras/Modern/Civics/MassMedia.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Mobilization",
+    "type": "toggle",
+    "img": "images/Eras/Modern/Civics/Mobilization.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Capitalism",
+    "type": "toggle",
+    "img": "images/Eras/Modern/Civics/Capitalism.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Ideology",
+    "type": "toggle",
+    "img": "images/Eras/Modern/Civics/Ideology.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Nuclear Program",
+    "type": "toggle",
+    "img": "images/Eras/Modern/Civics/NuclearProgram.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Suffrage",
+    "type": "toggle",
+    "img": "images/Eras/Modern/Civics/Suffrage.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Totalitarianism",
+    "type": "toggle",
+    "img": "images/Eras/Modern/Civics/Totalitarianism.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Class Struggle",
+    "type": "toggle",
+    "img": "images/Eras/Modern/Civics/ClassStruggle.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Cultural Heritage",
+    "type": "toggle",
+    "img": "images/Eras/Atomic/Civics/CulturalHeritage.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Cold War",
+    "type": "toggle",
+    "img": "images/Eras/Atomic/Civics/ColdWar.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Professional Sports",
+    "type": "toggle",
+    "img": "images/Eras/Atomic/Civics/ProfessionalSports.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Rapid Deployment",
+    "type": "toggle",
+    "img": "images/Eras/Atomic/Civics/RapidDeployment.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Space Race",
+    "type": "toggle",
+    "img": "images/Eras/Atomic/Civics/SpaceRace.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Environmentalism",
+    "type": "toggle",
+    "img": "images/Eras/Information/Civics/Environmentalism.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Globalization",
+    "type": "toggle",
+    "img": "images/Eras/Information/Civics/Globalization.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Social Media",
+    "type": "toggle",
+    "img": "images/Eras/Information/Civics/SocialMedia.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Near Future Governance",
+    "type": "toggle",
+    "img": "images/Eras/Information/Civics/NearFutureGovernance.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Venture Politics",
+    "type": "toggle",
+    "img": "images/Eras/Information/Civics/VenturePolitics.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Distributed Sovereignty",
+    "type": "toggle",
+    "img": "images/Eras/Information/Civics/DistributedSovereignty.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Optimization Imperative",
+    "type": "toggle",
+    "img": "images/Eras/Information/Civics/OptimizationImperative.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "",
+    "type": "toggle",
+    "img": "images/Eras/Information/Civics/.png",
     "codes": "toggle"
   },
   {
