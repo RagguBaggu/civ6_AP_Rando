@@ -1,6 +1,78 @@
 [
   //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
   {
+    "name": "Pottery",
+    "type": "toggle",
+    "img": "images/items/Ancient/Techs/Pottery.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Animal Husbandry",
+    "type": "toggle",
+    "img": "images/items/Ancient/Techs/AnimalHusbandry.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Mining",
+    "type": "toggle",
+    "img": "images/items/Ancient/Techs/Mining.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Sailing",
+    "type": "toggle",
+    "img": "images/items/Ancient/Techs/Sailing.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Astrology",
+    "type": "toggle",
+    "img": "images/items/Ancient/Techs/Astrology.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Irrigation",
+    "type": "toggle",
+    "img": "images/items/Ancient/Techs/Irrigation.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Writing",
+    "type": "toggle",
+    "img": "images/items/Ancient/Techs/Writing.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Archery",
+    "type": "toggle",
+    "img": "images/items/Ancient/Techs/Archery.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Masonry",
+    "type": "toggle",
+    "img": "images/items/Ancient/Techs/Masonry",
+    "codes": "toggle"
+  },
+  {
+    "name": "Bronze Working",
+    "type": "toggle",
+    "img": "images/items/Ancient/Techs/BronzeWorking.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Wheel",
+    "type": "toggle",
+    "img": "images/items/Ancient/Techs/Wheel.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "",
+    "type": "toggle",
+    "img": "images/items/Classical/Techs/",
+    "codes": "toggle"
+  },
+  {
     "name": "Toggle",
     "type": "toggle",
     "img": "images/items/toggle.png",
